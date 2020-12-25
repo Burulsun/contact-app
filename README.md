@@ -1,4 +1,23 @@
 # contact-app
 
 Author Burulsun Taalaibekova
-You can check out Screenshots zip file for the outputs
+
+Initial look:
+
+![](Screenshots/im1.jpeg)
+
+Once you select the contact:
+
+![](Screenshots/select.jpeg)
+
+Update the contact's information: (in this case the email was updated)
+
+![](Screenshots/update.jpeg)
+
+The updated contac is deleted:
+
+![](Screenshots/delete.jpeg )
+
+Add new contact:
+
+![](Screenshots/new.jpeg )
