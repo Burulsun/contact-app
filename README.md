@@ -14,7 +14,7 @@ Update the contact's information: (in this case the email was updated)
 
 ![](Screenshots/update.jpeg)
 
-The updated contac is deleted:
+The updated contact is deleted:
 
 ![](Screenshots/delete.jpeg )
 
